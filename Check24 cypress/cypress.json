@@ -1,0 +1,9 @@
+{
+    "ignoreTestFiles":"**/examples/*",
+    "chromeWebSecurity": false,
+    "env":{
+        "username": "usernamhere",
+        "password": "passwordhere",
+        "url": "https://haushalt.check24.de/"
+    }  
+}
